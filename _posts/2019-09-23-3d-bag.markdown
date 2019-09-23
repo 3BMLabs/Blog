@@ -4,7 +4,7 @@ title:  "3D Bag"
 date:   2019-09-23 17:26:07
 categories: development
 description: "There are many ways to make a website, but what about static site generators"
-image: 'https://www.csrhymes.com//img/static-site-generator.jpg'
+image: 'https://github.com/3BMLabs/Blog/blob/master/assets/blog_assets/2019-09-23/1_BAG%203D.gif' 
 published: true
 canonical_url: https://www.csrhymes.com/development/2018/05/28/why-use-a-static-site-generator.html
 ---
@@ -12,15 +12,15 @@ canonical_url: https://www.csrhymes.com/development/2018/05/28/why-use-a-static-
 Wow dit is echt fantastisch!! Het team van de TU Delft heeft een programma gemaakt bag3d.
 Hiermee is de hoogtedata van het AHN3 gecombineerd met de gegevens van de Basis Administratie Gebouwen.
 
-Een deel van het resultaat is beschikbaar gesteld als webservice: http://3dbag.bk.tudelft.nl/data/wfs?request=getcapabilities
+Een deel van het resultaat is beschikbaar gesteld als webservice: <http://3dbag.bk.tudelft.nl/data/wfs?request=getcapabilities>
 
 Meer informatie is te vinden op 3dbag.bk.tudelft.nl/.
 
 Dit is natuurlijk top om binnen Dynamo te gebruiken. Eindelijk een snelle oplossing om de gebouwde omgeving in 3D in Revit in te laden.
 
-Gebruik de nieuwe versie van GIS2BIM 0.8. Op de wiki op GitHub staan trouwens alle nodes uitgelegd. https://github.com/DutchSailor/GIS2BIM/wiki/Nodes-version-0.8 
+Gebruik de nieuwe versie van GIS2BIM 0.8. Op de wiki op GitHub staan trouwens alle nodes uitgelegd. <https://github.com/DutchSailor/GIS2BIM/wiki/Nodes-version-0.8> 
 
-De workspace is te downloaden via https://github.com/DutchSailor/GIS2BIM/tree/master/nodes/support/DutchGEO/BAG 3D.dyn
+De workspace is te downloaden via <https://github.com/DutchSailor/GIS2BIM/tree/master/nodes/support/DutchGEO/BAG> 3D.dyn
 
 Deze staat tevens in de 'extra' map die bij GIS2BIM geïnstalleerd is.
 
