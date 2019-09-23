@@ -30,3 +30,5 @@ http://3dbag.bk.tudelft.nl/data/wfs?&request=GetFeature
 &typeName=BAG3D:pand3d
 &outputFormat=GML3
 &bbox=108311,446935,108711,447335
+
+![](1_BAG 3D.gif)
