@@ -1,5 +1,4 @@
 # Site Settings
-remote_theme: chrisrhymes/bulma-clean-theme
 title: Bulma Clean Theme
 tagline: Bulma Clean Theme
 email: your-email@domain.com
@@ -56,6 +55,7 @@ defaults:
       show_sidebar: true
 
 markdown: kramdown
+remote_theme: chrisrhymes/bulma-clean-theme
 highlighter: rouge
 
 footer_menu: example_footer_menu
