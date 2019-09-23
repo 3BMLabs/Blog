@@ -1,4 +1,5 @@
 # Site Settings
+remote_theme: chrisrhymes/bulma-clean-theme
 title: Bulma Clean Theme
 tagline: Bulma Clean Theme
 email: your-email@domain.com
@@ -10,8 +11,6 @@ permalink: pretty
 
 paginate: 5
 paginate_path: "/blog/page:num"
-
-remote_theme: chrisrhymes/bulma-clean-theme
 
 plugins:
   - jekyll-sitemap
