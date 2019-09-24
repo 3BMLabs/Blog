@@ -31,4 +31,4 @@ http://3dbag.bk.tudelft.nl/data/wfs?&request=GetFeature
 &outputFormat=GML3
 &bbox=108311,446935,108711,447335
 
-![Gif](../assets/blog_assets/2019-09-23/1_BAG 3D.gif)
+![gif](../assets/blog_assets/2019-09-23/1_BAG 3D.gif)
