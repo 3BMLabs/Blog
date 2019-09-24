@@ -2,9 +2,10 @@
 layout: post
 title:  "3D Bag"
 date:   2019-09-23 17:26:07
+author: Maarten Vroegindeweij
 categories: development
 description: "There are many ways to make a website, but what about static site generators"
-image: 'https://github.com/3BMLabs/Blog/blob/master/assets/blog_assets/2019-09-23/1_BAG%203D.gif' 
+image: 'https://1.bp.blogspot.com/-KgBcP61_mRg/W-bnwukhcqI/AAAAAAAABl4/OjhVi57LDu8uwphHB4yj5IAy6urhqXk5gCLcBGAs/s1600/1_BAG%2B3D.gif' 
 published: true
 canonical_url: https://www.csrhymes.com/development/2018/05/28/why-use-a-static-site-generator.html
 ---
