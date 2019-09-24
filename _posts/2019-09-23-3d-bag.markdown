@@ -35,4 +35,4 @@ http://3dbag.bk.tudelft.nl/data/wfs?&request=GetFeature
 
 ![](1_BAG 3D.gif)
 
-'https://1.bp.blogspot.com/-KgBcP61_mRg/W-bnwukhcqI/AAAAAAAABl4/OjhVi57LDu8uwphHB4yj5IAy6urhqXk5gCLcBGAs/s1600/1_BAG%2B3D.gif' 
+image: 'https://1.bp.blogspot.com/-KgBcP61_mRg/W-bnwukhcqI/AAAAAAAABl4/OjhVi57LDu8uwphHB4yj5IAy6urhqXk5gCLcBGAs/s1600/1_BAG%2B3D.gif' 
