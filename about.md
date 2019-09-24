@@ -2,7 +2,7 @@
 title: 3BMLabs
 subtitle: About
 layout: page
-hero_height: small
+hero_height: is_small
 show_sidebar: false
 ---
 
