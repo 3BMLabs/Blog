@@ -17,7 +17,7 @@
 #      link: /landing/
 #- name: Products
 #  link: /products/
-#- name: Blog
-#  link: /blog/
+- name: Blog
+  link: /blog/
 - name: About
   link: /about
