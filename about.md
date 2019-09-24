@@ -5,7 +5,7 @@ layout: page
 show_sidebar: false
 ---
 
-##Our Team
+## Our Team
 
 ![Maarten](../assets/about_assets/6-Maarten-Vroegindeweij-kopie-150x150.jpg)
 
