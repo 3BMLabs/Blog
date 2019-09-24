@@ -9,7 +9,7 @@ show_sidebar: false
 
 ![Maarten](../assets/about_assets/6-Maarten-Vroegindeweij-kopie-150x150.jpg)
 
-![Piet](../assets/about_assets/6-Maarten-Vroegindeweij-kopie-150x150.jpg)
+![Piet](../assets/about_assets/5-Piet-Mol-kopie-150x150.jpg)
 
-![Leslie](../assets/about_assets/6-Maarten-Vroegindeweij-kopie-150x150.jpg)
+![Leslie](../assets/about_assets/Leslie-Ing.jpg)
 
