@@ -1,14 +1,12 @@
-style: is-dark
-height: is-small
+style: is-light
+height: is-medium
 items:
   - title: .MakeUp
     subtitle: Dynamo Package for annotation
     icon: fa-ruler-horizontal
-    description: >
-      The example description text goes here and can be multiple lines.
 
       For example, such as this. 
-    call_to_action_name: Get
+    call_to_action_name: Download
     call_to_action_link: /page-1/
     
   - title: .FabLab
@@ -19,12 +17,12 @@ items:
     call_to_action_name: Download
     call_to_action_link: /page-2/
     
-  - title: Example callout 3
-    subtitle: Example subtitle 3
+  - title: 3BMLabs GitHub
+#    subtitle: Example subtitle 3
     icon: fab fa-github
-    description: >
-      The example description text goes here and can be multiple lines.
+#    description: >
+#      The example description text goes here and can be multiple lines.
 
       For example, such as this.
-    call_to_action_name: Call to action 3
+    call_to_action_name: Go
     call_to_action_link: /blog/
