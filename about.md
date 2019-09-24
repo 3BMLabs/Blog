@@ -7,3 +7,5 @@ show_sidebar: false
 assets/about_assets/6-Maarten-Vroegindeweij-kopie-150x150.jpg
 
 https://raw.githubusercontent.com/3BMLabs/Blog/master/assets/about_assets/6-Maarten-Vroegindeweij-kopie-150x150.jpg
+
+<img src="assets/about_assets/6-Maarten-Vroegindeweij-kopie-150x150.jpg" alt="hi" class="inline"/>
