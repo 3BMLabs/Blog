@@ -19,5 +19,5 @@
 #  link: /products/
 - name: Blog
   link: /blog/
-- name: New is cool
-  link: /new
+- name: About
+  link: /about
