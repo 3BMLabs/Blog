@@ -3,7 +3,7 @@ title: 3BMLabs
 tagline: 3BMLabs
 email: info@3bm.co.nl #your-email@domain.com
 description: >
-  The demo site for Bulma Clean Theme, made for Jekyll and GitHub pages websites
+  The blog for 3BM
 baseurl: "/Blog"
 url: "https://www.3bmlabs.nl"
 permalink: pretty
@@ -37,22 +37,22 @@ sass:
 
 #google_analytics: UA-code-here
 
-defaults:
-  -
-    scope:
-      path: ""
-      type: "pages"
-    values:
-      show_sidebar: true
-  -
-    scope:
-      path: ""
-      type: "posts"
-    values:
-      author: "C.S. Rhymes"
-      layout: post
-      image: https://via.placeholder.com/1200x800
-      show_sidebar: true
+#defaults:
+#  -
+#    scope:
+#      path: ""
+#      type: "pages"
+#    values:
+#      show_sidebar: true
+#  -
+#    scope:
+#      path: ""
+#      type: "posts"
+#    values:
+#      author: "C.S. Rhymes"
+#      layout: post
+#      image: https://via.placeholder.com/1200x800
+#      show_sidebar: true
 
 markdown: kramdown
 remote_theme: chrisrhymes/bulma-clean-theme
@@ -60,9 +60,9 @@ highlighter: rouge
 
 footer_menu: example_footer_menu
 
-collections:
-  products: 
-    output: false
-    layout: product
-    image: https://via.placeholder.com/800x600
-    show_sidebar: false
+#collections:
+#  products: 
+#    output: false
+#    layout: product
+#    image: https://via.placeholder.com/800x600
+#    show_sidebar: false
