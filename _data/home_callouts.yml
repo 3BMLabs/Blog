@@ -5,7 +5,6 @@ items:
     subtitle: Dynamo Package for annotation
     icon: fa-ruler-horizontal
 
-      For example, such as this. 
     call_to_action_name: Download
     call_to_action_link: /page-1/
     
@@ -13,7 +12,6 @@ items:
     subtitle: Dynamo Package for Digital Fabrication 
     icon: fa-wrench
 
-      For example, such as this.
     call_to_action_name: Download
     call_to_action_link: /page-2/
     
@@ -23,6 +21,5 @@ items:
 #    description: >
 #      The example description text goes here and can be multiple lines.
 
-      For example, such as this.
     call_to_action_name: Go
     call_to_action_link: /blog/
