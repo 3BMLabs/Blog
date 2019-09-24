@@ -2,7 +2,7 @@ style: is-light
 height: is-small
 items:
   - title: .MakeUp
-    subtitle: Dynamo Package for annotation
+    subtitle: Dynamo Package for Annotation
     icon: fa-ruler-horizontal
 
     call_to_action_name: Download
