@@ -4,13 +4,12 @@ subtitle: Changing the way Architects, Engineers, Contractors and Manufacturers 
 layout: page
 show_sidebar: false
 ---
-assets/about_assets/6-Maarten-Vroegindeweij-kopie-150x150.jpg
 
-https://raw.githubusercontent.com/3BMLabs/Blog/master/assets/about_assets/6-Maarten-Vroegindeweij-kopie-150x150.jpg
+##Our Team
 
-<img src="assets/about_assets/6-Maarten-Vroegindeweij-kopie-150x150.jpg" alt="hi" class="inline"/>
+![Maarten](../assets/about_assets/6-Maarten-Vroegindeweij-kopie-150x150.jpg)
 
-<img src="https://raw.githubusercontent.com/3BMLabs/Blog/master/assets/about_assets/6-Maarten-Vroegindeweij-kopie-150x150.jpg
-" alt="hi" class="inline"/>
+![Piet](../assets/about_assets/6-Maarten-Vroegindeweij-kopie-150x150.jpg)
 
-![a screenshot example](../assets/about_assets/6-Maarten-Vroegindeweij-kopie-150x150.jpg)
+![Leslie](../assets/about_assets/6-Maarten-Vroegindeweij-kopie-150x150.jpg)
+
