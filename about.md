@@ -12,3 +12,5 @@ https://raw.githubusercontent.com/3BMLabs/Blog/master/assets/about_assets/6-Maar
 
 <img src="https://raw.githubusercontent.com/3BMLabs/Blog/master/assets/about_assets/6-Maarten-Vroegindeweij-kopie-150x150.jpg
 " alt="hi" class="inline"/>
+
+![a screenshot example](/assets/about_assets/6-Maarten-Vroegindeweij-kopie-150x150.jpg)
