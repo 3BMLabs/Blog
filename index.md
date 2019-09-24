@@ -1,6 +1,6 @@
 ---
 layout: blog
 title: Blog
-subtitle: Blog sub title
-show_sidebar: true
+subtitle: Computational Desingat 3BMLabs
+show_sidebar: false
 ---
