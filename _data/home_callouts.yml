@@ -6,14 +6,14 @@ items:
     icon: fa-ruler-horizontal
 
     call_to_action_name: Download
-    call_to_action_link: /page-1/
+    call_to_action_link: /
     
   - title: .FabLab
     subtitle: Dynamo Package for Digital Fabrication 
     icon: fa-wrench
 
     call_to_action_name: Download
-    call_to_action_link: /page-2/
+    call_to_action_link: /
     
   - title: GitHub
     subtitle: Our Open Source (MIT) Files
@@ -22,4 +22,4 @@ items:
 #      The example description text goes here and can be multiple lines.
 
     call_to_action_name: Go
-    call_to_action_link: <https://github.com/3BMLabs>
+    call_to_action_link: /
