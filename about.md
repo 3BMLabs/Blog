@@ -1,6 +1,6 @@
 ---
-title: new page
-subtitle: This is a new page
+title: Abour 3BMLabs
+subtitle: Changing the way Architects, Engineers, Contractors and Manufacturers design and build building
 layout: page
 callouts: home_callouts
 show_sidebar: false
