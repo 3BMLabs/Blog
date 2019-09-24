@@ -16,7 +16,7 @@ items:
     call_to_action_link: /page-2/
     
   - title: 3BMLabs GitHub
-#    subtitle: Example subtitle 3
+    subtitle: Our Open Source (MIT) Files
     icon: fab fa-github
 #    description: >
 #      The example description text goes here and can be multiple lines.
