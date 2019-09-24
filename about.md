@@ -4,3 +4,6 @@ subtitle: Changing the way Architects, Engineers, Contractors and Manufacturers 
 layout: page
 show_sidebar: false
 ---
+assets/about_assets/6-Maarten-Vroegindeweij-kopie-150x150.jpg
+
+https://raw.githubusercontent.com/3BMLabs/Blog/master/assets/about_assets/6-Maarten-Vroegindeweij-kopie-150x150.jpg
