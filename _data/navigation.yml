@@ -18,4 +18,6 @@
 - name: Products
   link: /products/
 - name: Blog
-  link: /blog/ 
+  link: /blog/
+- name: New is cool
+  link: /new
