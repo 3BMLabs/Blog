@@ -11,5 +11,5 @@ show_sidebar: false
 
 ![Piet](../assets/about_assets/5-Piet-Mol-kopie-150x150.jpg)
 
-![Leslie](../assets/about_assets/6-Leslie-Ing-kopie-150x150.jpg)
+![Leslie](../assets/about_assets/7-Leslie-Ing-kopie-150x150.jpg)
 
