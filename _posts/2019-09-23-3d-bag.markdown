@@ -33,4 +33,7 @@ http://3dbag.bk.tudelft.nl/data/wfs?&request=GetFeature
 
 ![alt text](https://github.com/3BMLabs/Blog/raw/master/img/1_BAG%203D.gif)
 
+![alt text](./img/1_BAG 3D.gif)
+
+
 
