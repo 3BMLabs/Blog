@@ -1,10 +1,10 @@
 # Site Settings
 title: 3BMLabs
 tagline: 3BMLabs
-email: info@3bm.co.nl #your-email@domain.com
+email: info@3bm.co.nl
 description: >
    The demo site for Bulma Clean Theme, made for Jekyll and GitHub pages websites
-baseurl: "/labs"
+baseurl: "/LABS"
 url: "https://www.3bmlabs.nl"
 permalink: pretty
 
