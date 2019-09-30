@@ -3,7 +3,7 @@ title: 3BMLabs
 subtitle: About
 layout: page
 hero_height: is_small
-show_sidebar: false
+show_sidebar: true
 ---
 
 ##  Our Vision
