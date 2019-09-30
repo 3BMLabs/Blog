@@ -1,5 +1,5 @@
 style: is-dark
-height: is-small
+height: is-medium
 items:
   - title: .MakeUp
     subtitle: Dynamo Package for Annotation
