@@ -1,6 +1,6 @@
 ---
 layout: page
-title: 3BMLabs
+title:
 show_sidebar: true
 image:
 hero_image: https://raw.githubusercontent.com/3BMLabs/Blog/master/img/labs.jpg
