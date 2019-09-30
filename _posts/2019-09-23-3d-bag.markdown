@@ -34,4 +34,6 @@ http://3dbag.bk.tudelft.nl/data/wfs?&request=GetFeature
 ![gif](../assets/blog_assets/2019-09-23/1_BAG 3D.gif)
 ![pic](../assets/about_assets/5-Piet-Mol-kopie-150x150.jpg)
 <img src="../assets/about_assets/5-Piet-Mol-kopie-150x150.jpg" width="40" height="40" />
+![gif](https://github.com/3BMLabs/Blog/blob/master/assets/blog_assets/2019-09-23/1_BAG%203D.gif)
+
 
