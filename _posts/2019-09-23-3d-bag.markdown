@@ -31,9 +31,11 @@ http://3dbag.bk.tudelft.nl/data/wfs?&request=GetFeature
 &outputFormat=GML3
 &bbox=108311,446935,108711,447335
 
-![alt text](https://github.com/3BMLabs/Blog/raw/master/img/1_BAG%203D.gif)
+![orkingigf](https://github.com/3BMLabs/Blog/raw/master/img/1_BAG%203D.gif)
 
-![alt text](./img/1_BAG 3D.gif)
+![alt test](./img/1_BAG 3D.gif)
+
+src="./img/1_BAG 3D.gif"
 
 
 
