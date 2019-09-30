@@ -2,7 +2,7 @@
 layout: page
 title: 3BMLabs
 show_sidebar: true
-image: /img/labs.jpg
+image:
 hero_image: /img/labs.jpg
 hero_height: is-large
 hero_link: /blog/
