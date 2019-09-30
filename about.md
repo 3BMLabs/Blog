@@ -8,13 +8,11 @@ show_sidebar: true
 
 ##  Our Vision
 
-Changing the way Architects, Engineers, Contractors and Manufacturers design and build
+3BMLabs's vision is to change the way we design and build in accordance to the developments of robotization in the construction-related manufacturing industry. The rule-based engineering and generation of correct 3D data and parameters will play an increasingly important role within the construction sector and manufacturing industry. 3BM Labs aims to position itself among designers, engineers, contractors, manufacturers and suppliers in order to contribute to a healthy built environment.
 
 ## Meet The Team
 
-Het team van 3BM Labs bestaat uit bouwkundige en constructief onderlegde ingenieurs met relevante ervaring in de Bouw, ICT, BIM-wereld en op gebied van BIM-implementatie.
-
-Onze visie is dat de robotisering in de bouwgerelateerde maakindustrie een grote vlucht gaat nemen. Het rule-based engineren en genereren van correcte 3D-data en parameters zal een steeds belangrijkere plaats innemen binnen de bouwsector en maakindustrie. 3BM Labs beoogd de positie te zoeken tussen de ontwerpers, aannemer en de fabrikanten en leveranciers.
+The 3BM Labs team consists of engineers with structural and constructive knowledge with relevant experience in the Construction, IT, BIM world and in the field of BIM implementation.
 
 ![Maarten](../assets/about_assets/6-Maarten-Vroegindeweij-kopie-150x150.jpg)
 
