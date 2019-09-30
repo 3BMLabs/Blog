@@ -1,7 +1,7 @@
 ---
 layout: page
 title:
-show_sidebar: true
+show_sidebar: false
 image:
 hero_image: https://raw.githubusercontent.com/3BMLabs/Blog/master/img/labs.jpg
 hero_height: is-large
