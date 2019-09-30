@@ -6,14 +6,14 @@ items:
     icon: fa-ruler-horizontal
 
     call_to_action_name: Download
-    call_to_action_link: /
+    call_to_action_link: https://github.com/3BMLabs/.MakeUp
     
   - title: .FabLab
     subtitle: Dynamo Package for Digital Fabrication 
     icon: fa-wrench
 
     call_to_action_name: Download
-    call_to_action_link: /
+    call_to_action_link: https://github.com/3BMLabs/.DigiFab
     
   - title: GitHub
     subtitle: Our Open Source (MIT) Files
