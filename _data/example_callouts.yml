@@ -1,5 +1,5 @@
 style: is-light
-height: is-medium
+height: is-small
 items:
   - title: Example callout 1
     subtitle: Example subtitle 1
