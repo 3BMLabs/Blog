@@ -37,5 +37,9 @@ http://3dbag.bk.tudelft.nl/data/wfs?&request=GetFeature
 
 src="./img/1_BAG 3D.gif"
 
+![Farmers Market Finder Demo](img/1_BAG 3D.gif)
+
+
+
 
 
