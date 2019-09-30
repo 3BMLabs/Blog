@@ -14,7 +14,7 @@ Hiermee is de hoogtedata van het AHN3 gecombineerd met de gegevens van de Basis 
 
 Een deel van het resultaat is beschikbaar gesteld als webservice: <http://3dbag.bk.tudelft.nl/data/wfs?request=getcapabilities>
 
-Meer informatie is te vinden op 3dbag.bk.tudelft.nl/.
+Meer informatie is te vinden op <3dbag.bk.tudelft.nl/>.
 
 Dit is natuurlijk top om binnen Dynamo te gebruiken. Eindelijk een snelle oplossing om de gebouwde omgeving in 3D in Revit in te laden.
 
