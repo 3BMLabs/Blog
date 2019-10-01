@@ -23,11 +23,11 @@ The third one is the Gridlines output. This will output the surface pattern in a
 
 The last two outputs are GridU and GridV. These output the same curves as Gridlines, but are seperated in the two directions of the surface pattern, and thus in two outputs.
 
-## How to use SurfacePatternTOCurves?
+## How to use SurfacePatternToCurves?
 
 In this example we will show you one way to use this node. 
 
-## Example: Generating Computer Floors
+### Example: Generating Computer Floors
 
 ![SurfacePatternToCurves_Demo_1](https://github.com/3BMLabs/LABS/raw/master/assets/blog_assets/2019-10-01/SurfacePatternToCurves_Demo_1.gif)
 
