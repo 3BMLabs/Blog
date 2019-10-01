@@ -15,6 +15,9 @@ In this blog post we will describe the usage of the SurfacePatternToCurves node.
 
 SurfacePatternToCurves has a multitude of possible uses. Let's first take a look at the in- and output of the node. The node accepts as input a model element, using the top surface for the extraction of the surface pattern. The output consists of five values. The first one; Grouped Perimeter IntersectionPoints 
 
-## How it works
+## Example: Generating Computer Floors
 
 ![SurfacePatternToCurves_Demo_1](https://github.com/3BMLabs/LABS/raw/master/assets/blog_assets/2019-10-01/SurfacePatternToCurves_Demo_1.gif)
+
+## How it works
+
