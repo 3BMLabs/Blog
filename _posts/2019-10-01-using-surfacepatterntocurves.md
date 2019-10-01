@@ -9,6 +9,7 @@ image: 'https://github.com/3BMLabs/LABS/raw/master/assets/blog_assets/2019-10-01
 published: true
 ---
 
+In this blog post we will describe the usage of the SurfacePatternToCurves node
 
 
 ![SurfacePatternToCurves_Demo_1](https://github.com/3BMLabs/LABS/raw/master/assets/blog_assets/2019-10-01/SurfacePatternToCurves_Demo_1.gif)
