@@ -6,7 +6,7 @@ author: Leslie Ing
 categories: dynamo
 description: "In this blog post we will describe the usage of the SurfacePatternToCurves node"
 image: 'https://github.com/3BMLabs/LABS/raw/master/assets/blog_assets/2019-10-01/SurfacePatternToCurves_Demo_1.gif' 
-published: true
+published: false
 ---
 
 In this blog post we will describe the usage of the SurfacePatternToCurves node
