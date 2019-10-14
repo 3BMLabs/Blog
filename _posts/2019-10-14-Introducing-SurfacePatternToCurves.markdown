@@ -4,12 +4,14 @@ title: "Generating computerfloors using SurfacePatternToCurves"
 date: 2019-10-14 17:30:00
 author: Leslie Ing
 categories: dynamo revit bim computer floor python
-description: "In this blog post we will describe the usage of the SurfacePatternToCurves node"
+description: "In this blog post we will describe the usage of the first 3BMLabs.MakeUp node: SurfacePatternToCurves"
 image: 'https://github.com/3BMLabs/LABS/raw/master/assets/blog_assets/2019-10-01/SurfacePatternToCurves_Demo_1.gif' 
 published: true
 ---
 
-In this blog post we will describe the usage of the SurfacePatternToCurves node. This node was made to facilitate creating computer floors in Revit using Dynamo by extracting the surface pattern of the assigned material of the selected floor. This way you can edit the pattern of the floor, which will be reflected in the generated floor tile elements.
+In this blog post we will describe the usage of the SurfacePatternToCurves node. This node was made to facilitate creating computer floors in Revit using Dynamo by extracting the surface pattern of the assigned material of the selected floor. After editing the pattern you can then generate the floor tile elements.
+
+This way you can edit the pattern of the floor and use the SurfacePatternToCurves node generate the floor tile elements.
 
 ## What is SurfacePatternToCurves?
 
