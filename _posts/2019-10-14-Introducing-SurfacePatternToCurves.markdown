@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Generating computerfloors using SurfacePatternToCurves"
+title: "Generating computer floors using SurfacePatternToCurves"
 date: 2019-10-14 17:30:00
 author: Leslie Ing
 categories: dynamo revit bim computer floor python
