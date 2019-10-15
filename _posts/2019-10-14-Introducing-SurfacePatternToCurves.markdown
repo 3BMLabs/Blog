@@ -21,8 +21,7 @@ In our workflow we need to know the grid of these raised tiles and place adaptiv
 
 ## What?
 
-![node](https://github.com/3BMLabs/LABS/raw/master/assets/blog_assets/2019-10-15/SurfacePatternToCurves%20node.PNG
-)
+![node](https://github.com/3BMLabs/LABS/raw/master/assets/blog_assets/2019-10-15/SurfacePatternToCurves%20node.png)
 
 Let's first take a look at the in- and output of the node. The node accepts as input a model element, in our case a floor: "FloorElement".
 
