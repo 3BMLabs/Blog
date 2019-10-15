@@ -9,7 +9,7 @@ image: 'https://github.com/3BMLabs/LABS/raw/master/assets/blog_assets/2019-10-01
 published: true
 ---
 
-In this blog post we will describe the usage of the SurfacePatternToCurves node. This node is the first one in many to come, created for the  [3BMLabs.DigiFab Dynamo Package](https://github.com/3BMLabs/.DigiFab "3BMLabs.DigiFab repository"). It is used to help generate raised computer floors, using the hatch pattern on a Revit floor.
+In this blog post we will describe the usage of the SurfacePatternToCurves node. This node is the first one in many to come, created for the [3BMLabs.DigiFab Dynamo Package](https://github.com/3BMLabs/.DigiFab "3BMLabs.DigiFab repository"). It is used to help generate raised computer floors, using the hatch pattern on a Revit floor.
 
 ## Why?
 
@@ -36,7 +36,10 @@ using its top surface for the extraction of the surface pattern of the assigned 
 
 ## How?
 
-In this example we will show you one way to use this node. 
+### Example 1: Generating a grid for Computer Floor tiles
+
+### Example 2: Generating points for 
+
 
 ## Where?
 
@@ -46,5 +49,6 @@ The node and the example file can be installed from the Dynamo package mananger,
 
 ![SurfacePatternToCurves_Demo_1](https://github.com/3BMLabs/LABS/raw/master/assets/blog_assets/2019-10-01/SurfacePatternToCurves_Demo_1.gif)
 
-## Understanding SurfacePatternToCurves
+## Help?
 
+In a next installment of the blog we will go into a deeper understanding of the node. However, if you have any questions or issues about the node feel free to create a [new issue](https://github.com/3BMLabs/.DigiFab/issues "3BMLabs.DigiFab repository issues") on our GitHub repository. 
