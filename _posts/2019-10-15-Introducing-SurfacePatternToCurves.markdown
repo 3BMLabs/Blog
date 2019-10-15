@@ -37,10 +37,15 @@ The two outputs "GridU" and "GridV" output the same curves as Gridlines, but are
 
 ## How?
 
-##### Example 1: Generating a grid for Computer Floor tiles
+##### Example 1: Using SurfacePatternToCurves to create a grid for Computer Floor tiles
 ![SurfacePatternToCurves_Demo_1](https://github.com/3BMLabs/LABS/raw/master/assets/blog_assets/2019-10-01/SurfacePatternToCurves_Demo_1.gif)
-##### Example 2: Generating points for 
+
+
+
+##### Example 2: Using SurfacePatternToCurves to create points for adaptive components 
 ![SurfacePatternToCurves_Demo_2](https://github.com/3BMLabs/LABS/raw/master/assets/blog_assets/2019-10-15/SurfacePatternToCurves_Demo_2.gif)
+
+
 
 ## Where?
 
