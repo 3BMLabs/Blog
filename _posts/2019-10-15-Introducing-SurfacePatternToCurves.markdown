@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Creating Computer Floors using SurfacePatternToCurves"
-date: 2019-10-14 17:30:00
+date: 2019-10-15 17:30:00
 author: Leslie Ing
 categories: dynamo revit bim computer floor python
 description: "In this blog post we will describe the usage of the SurfacePatternToCurves node"
