@@ -40,7 +40,7 @@ In this example we will show you one way to use this node.
 
 ## Where to get SurfacePatternToCurves?
 
-It can be donwloaded here, or alternitveley 
+I can be installed from the Dynamo package mananger, or alternatively on our [Github Page](https://github.com/3BMLabs/.DigiFab "3BMLabs.DigiFab repository").
 
 ### Example: Generating Computer Floors
 
