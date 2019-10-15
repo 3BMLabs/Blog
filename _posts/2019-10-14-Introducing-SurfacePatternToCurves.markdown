@@ -37,17 +37,13 @@ using its top surface for the extraction of the surface pattern of the assigned 
 ## How?
 
 ##### Example 1: Generating a grid for Computer Floor tiles
-
+![SurfacePatternToCurves_Demo_1](https://github.com/3BMLabs/LABS/raw/master/assets/blog_assets/2019-10-01/SurfacePatternToCurves_Demo_1.gif)
 ##### Example 2: Generating points for 
 
 
 ## Where?
 
 The node and the example file can be installed from the Dynamo package mananger, or downloaded from our [Github Page](https://github.com/3BMLabs/.DigiFab "3BMLabs.DigiFab repository").
-
-### Example: Generating elevated Computer Floor tiles
-
-![SurfacePatternToCurves_Demo_1](https://github.com/3BMLabs/LABS/raw/master/assets/blog_assets/2019-10-01/SurfacePatternToCurves_Demo_1.gif)
 
 ## Help?
 
