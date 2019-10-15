@@ -6,7 +6,7 @@ author: Maarten Vroegindeweij
 categories: development
 description: "There are many ways to make a website, but what about static site generators"
 image: 'https://github.com/3BMLabs/Blog/raw/master/img/1_BAG%203D.gif' 
-published: true
+published: false
 ---
 
 Wow dit is echt fantastisch!! Het team van de TU Delft heeft een programma gemaakt bag3d.
