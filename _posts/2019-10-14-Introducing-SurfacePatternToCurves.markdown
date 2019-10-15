@@ -36,9 +36,9 @@ using its top surface for the extraction of the surface pattern of the assigned 
 
 ## How?
 
-### Example 1: Generating a grid for Computer Floor tiles
+##### Example 1: Generating a grid for Computer Floor tiles
 
-### Example 2: Generating points for 
+##### Example 2: Generating points for 
 
 
 ## Where?
