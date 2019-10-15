@@ -44,7 +44,7 @@ The two outputs "GridU" and "GridV" output the same curves as Gridlines, but are
 
 ## Where?
 
-The node and the example file can be installed from the Dynamo package mananger, or downloaded from our [Github Page](https://github.com/3BMLabs/.DigiFab "3BMLabs.DigiFab repository").
+The node and the example file can be installed from the Dynamo package manager, or downloaded from our [Github Page](https://github.com/3BMLabs/.DigiFab "3BMLabs.DigiFab repository").
 
 ## Help?
 
