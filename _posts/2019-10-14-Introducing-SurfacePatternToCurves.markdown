@@ -1,10 +1,10 @@
 ---
 layout: post
-title: "Generating computer floors using SurfacePatternToCurves"
+title: "Generating Computer Floors using SurfacePatternToCurves"
 date: 2019-10-14 17:30:00
 author: Leslie Ing
 categories: dynamo revit bim computer floor python
-description: "In this blog post we will describe the usage of the first 3BMLabs.MakeUp node: SurfacePatternToCurves"
+description: "In this blog post we will describe the usage of the SurfacePatternToCurves node"
 image: 'https://github.com/3BMLabs/LABS/raw/master/assets/blog_assets/2019-10-01/SurfacePatternToCurves_Demo_1.gif' 
 published: true
 ---
@@ -42,7 +42,7 @@ In this example we will show you one way to use this node.
 
 I can be installed from the Dynamo package mananger, or alternatively downloaded on our [Github Page](https://github.com/3BMLabs/.DigiFab "3BMLabs.DigiFab repository").
 
-### Example: Generating Computer Floors
+### Example: Generating elevated Computer Floor tiles
 
 ![SurfacePatternToCurves_Demo_1](https://github.com/3BMLabs/LABS/raw/master/assets/blog_assets/2019-10-01/SurfacePatternToCurves_Demo_1.gif)
 
