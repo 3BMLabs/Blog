@@ -13,7 +13,7 @@ In this blog post we will describe the usage of the SurfacePatternToCurves node.
 
 ## Why?
 
-At 3BM engineering we often use computer floors in our projects. These floors are defined by their characteristic of being elevated above the floor slab by pedestals to create space for wiring, because this allows maximum freedom of workspace organisation. 
+At 3BM engineering we often use computer floors in our projects. These floors are defined by the characteristic of being elevated above the floor slab by pedestals to create space for wiring, because this allows maximum freedom of workspace organisation. 
 
 ![Computer Floors](https://raw.githubusercontent.com/3BMLabs/LABS/master/assets/blog_assets/2019-10-15/PBF_HighRes-Project_DOW_Terneuzen-Wurks-36-ps.jpg)
 
