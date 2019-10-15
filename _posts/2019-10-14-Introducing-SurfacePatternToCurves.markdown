@@ -40,7 +40,7 @@ In this example we will show you one way to use this node.
 
 ## Where?
 
-The node and the example file can be installed from the Dynamo package mananger, or alternatively downloaded on our [Github Page](https://github.com/3BMLabs/.DigiFab "3BMLabs.DigiFab repository").
+The node and the example file can be installed from the Dynamo package mananger, or downloaded from our [Github Page](https://github.com/3BMLabs/.DigiFab "3BMLabs.DigiFab repository").
 
 ### Example: Generating elevated Computer Floor tiles
 
