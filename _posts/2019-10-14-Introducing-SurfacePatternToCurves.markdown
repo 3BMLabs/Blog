@@ -48,5 +48,5 @@ The node and the example file can be installed from the Dynamo package mananger,
 
 ## Help?
 
-In a next installment of the blog we will go into a deeper understanding of the node. However, if you have any questions or issues about the node feel free to create a [new issue](https://github.com/3BMLabs/.DigiFab/issues "3BMLabs.DigiFab repository issues") on our GitHub repository. 
+In a next installment of the blog we will go into a deeper understanding of the node. However, if you have any questions or issues feel free to create a [new issue](https://github.com/3BMLabs/.DigiFab/issues "3BMLabs.DigiFab repository issues") on our GitHub repository. 
 
