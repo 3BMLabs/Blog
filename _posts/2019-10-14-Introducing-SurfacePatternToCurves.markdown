@@ -21,7 +21,10 @@ In our workflow we need to know the grid of these raised tiles and place adaptiv
 
 ## What?
 
-Let's first take a look at the in- and output of the node. The node accepts as input a model element, in our case a floor.
+![node](https://github.com/3BMLabs/LABS/raw/master/assets/blog_assets/2019-10-15/SurfacePatternToCurves%20node.PNG
+)
+
+Let's first take a look at the in- and output of the node. The node accepts as input a model element, in our case a floor: "FloorElement".
 
 "Grouped Perimeter IntersectionPoints", is a list of points on the self-intersections of the surface pattern and on the intersection of the pattern with the surface boundary. These points are transposed, in such a way that they form pairs of startpoints and endpoints.
 
@@ -30,11 +33,6 @@ Let's first take a look at the in- and output of the node. The node accepts as i
 The "Gridlines" output will output the surface pattern in a list of curves.
 
 The two outputs "GridU" and "GridV" output the same curves as Gridlines, but are seperated in the two directions of the surface pattern, and thus in two outputs.
-
-
-
-using its top surface for the extraction of the surface pattern of the assigned material. The output consists of five values. 
-
 
 ## How?
 
