@@ -18,7 +18,7 @@ At 3BM engineering we often use computer floors in our projects. These floors ar
 ![Computer Floors](https://raw.githubusercontent.com/3BMLabs/LABS/master/assets/blog_assets/2019-10-15/PBF_HighRes-Project_DOW_Terneuzen-Wurks-36-ps.jpg)
 
 In our workflow we need to know the grid of these raised tiles and place adaptive components to make use of clash detection. In the old process we imported exploded Autocad drawings. Using this node we can speed up the workflow, because it reads the hatch pattern of the material of the floor slab and recreates the pattern in Dynamo. This saves us a lot of time doing manual tasks working in multiple sofware programs.
-...
+
 ## What?
 
 Let's first take a look at the in- and output of the SurfacePatternToCurves node. 
@@ -34,19 +34,19 @@ The node accepts as input a model element, in our case a floor: "FloorElement".
 The "Gridlines" output will output the surface pattern in a list of curves.
 
 The two outputs "GridU" and "GridV" output the same curves as Gridlines, but are seperated in the two directions of the surface pattern, and thus in two outputs.
-...
+
 ## How?
 
 ##### Example 1: Generating a grid for Computer Floor tiles
 ![SurfacePatternToCurves_Demo_1](https://github.com/3BMLabs/LABS/raw/master/assets/blog_assets/2019-10-01/SurfacePatternToCurves_Demo_1.gif)
 ##### Example 2: Generating points for 
 
-...
+
 ## Where?
 
 The node and the example file can be installed from the Dynamo package mananger, or downloaded from our [Github Page](https://github.com/3BMLabs/.DigiFab "3BMLabs.DigiFab repository").
-...
+
 ## Help?
 
 In a next installment of the blog we will go into a deeper understanding of the node. However, if you have any questions or issues about the node feel free to create a [new issue](https://github.com/3BMLabs/.DigiFab/issues "3BMLabs.DigiFab repository issues") on our GitHub repository. 
-...
+
