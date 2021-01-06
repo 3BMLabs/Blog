@@ -76,7 +76,7 @@ With 3BM we support several developers. Lets donate 0.5% of our revenue to the d
 
 PS: I'm working on the integration of GIS2BIM in FreeCAD & Blender. I will come back in the near future with more information.
 
-My progress and datafiles of my FreeCAD/BLender/PyFlow expirments are on this [github repository](https://github.com/DutchSailor/FOSS-BIM-Experiments)
+My progress and datafiles of my FreeCAD/BLender/PyFlow experiments are on this [github repository](https://github.com/DutchSailor/FOSS-BIM-Experiments)
 
 #### Blender Drawing
 ![Blender Drawing](https://raw.githubusercontent.com/3BMLabs/LABS/master/assets/blog_assets/2021-01-06/BlenderDrawing.png)
