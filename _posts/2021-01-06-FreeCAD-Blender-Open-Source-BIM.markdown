@@ -25,15 +25,15 @@ Wat echt geweldig is in FreeCAD dat het volledig Open Source is. Met Cpython kun
 
 FreeCAD wordt gemaakt een door aantal superenthousiaste & zeer kundige ontwikkelaars. Geef ze financiële steun zodat ze nog meer tijd in FreeCAD kunnen stoppen en het tot een groot succes kunnen maken!
 
-* BIM-module --> Yorik van Havre(al 11 jaar bezig!):  https://www.patreon.com/yorikvanhavre
+* BIM-module --> Yorik van Havre(al 11 jaar bezig!):  (https://www.patreon.com/yorikvanhavre)
 
-* GIS/Civiel/Moderne UI --> Hakan Seven: www.patreon.com/HakanSeven12
+* GIS/Civiel/Moderne UI --> Hakan Seven: (www.patreon.com/HakanSeven12)
 
-* Assembly --> RealThunder: www.patreon.com/thundereal
+* Assembly --> RealThunder: (www.patreon.com/thundereal)
 
-* Wapeningsmodule --> Amritpal Singh --> www.patreon.com/amrit3701
+* Wapeningsmodule --> Amritpal Singh --> (www.patreon.com/amrit3701)
 
-* PyFlow --> https://www.patreon.com/pyflow  PyFlow is een soort Dynamo/Grasshopper in wording. 
+* PyFlow --> (https://www.patreon.com/pyflow)  PyFlow is een soort Dynamo/Grasshopper in wording. 
 
 Een volledige lijst met donatiemogelijkheden voor Open Source software is te vinden op: Donation Directory - Wiki.OSArch
 Donation Directory met alle mogelijkheden 
