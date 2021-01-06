@@ -1,10 +1,10 @@
 ---
 layout: post
 title: "FreeCAD, Blender & Open Source BIM"
-date: 2021-01-06 11:00 
+date: 2021-01-06 11:00:00
 author: Maarten Vroegindeweij
 categories: BIM
-description: "In this blog post we will describe the usage of the SurfacePatternToCurves node"
+description: "In this blog post we will discuss the future of Open Source BIM"
 image: 'https://github.com/3BMLabs/LABS/raw/master/assets/blog_assets/2021-01-06/FreeCADSolibri.png'
 hero_height: is_small
 published: true
