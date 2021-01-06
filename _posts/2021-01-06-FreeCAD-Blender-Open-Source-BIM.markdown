@@ -25,7 +25,7 @@ Wat echt geweldig is in FreeCAD dat het volledig Open Source is. Met Cpython kun
 
 FreeCAD wordt gemaakt een door aantal superenthousiaste & zeer kundige ontwikkelaars. Geef ze financiële steun zodat ze nog meer tijd in FreeCAD kunnen stoppen en het tot een groot succes kunnen maken!
 
-* BIM-module --> Yorik van Havre(al 11 jaar bezig!):  https://www.patreon.com/yorikvanhavre
+* BIM-module --> [Yorik van Havre](https://www.patreon.com/yorikvanhavre) al 11 jaar bezig!
 
 * GIS/Civiel/Moderne UI --> Hakan Seven: www.patreon.com/HakanSeven12
 
