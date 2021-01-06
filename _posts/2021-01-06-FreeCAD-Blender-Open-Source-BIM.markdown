@@ -26,7 +26,7 @@ A great thing about FreeCAD & Blender is the fact that is Open Source. With CPyt
 
 FreeCAD is developed by a number of enthousiastic and intelligent developers. Lets give them financial support so they can put more of their time into FreeCAD and make it to a succes.
 
-* BIM-workbench: [Yorik van Havre](https://www.patreon.com/yorikvanhavre) al 11 jaar bezig!
+* BIM-workbench: [Yorik van Havre](https://www.patreon.com/yorikvanhavre) working on it for 11 years!
 
 * GIS/Civil/ModernUI: [Hakan Seven](https://www.patreon.com/HakanSeven12)
 
@@ -34,7 +34,7 @@ FreeCAD is developed by a number of enthousiastic and intelligent developers. Le
 
 * Rebar: [Amritpal Singh]https://(www.patreon.com/amrit3701)
 
-* [PyFlow](https://www.patreon.com/pyflow)  PyFlow is a kind of Grasshopper/Dynamo/Sverchok tool which is ported into FreeCAD
+* [PyFlow](https://www.patreon.com/pyflow)  PyFlow is a kind of Grasshopper/Dynamo/Sverchok tool which is ported into FreeCAD.
 
 A full donation directory is provided by [OSArch](https://wiki.osarch.org/index.php?title=Donation_Directory)
 
