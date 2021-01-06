@@ -14,13 +14,13 @@ Dutch Version is provided on the bottom of this page.
 
 # FreeCAD, Blender & Open Source BIM
 
-2021 will be the year of the further development of Open Source BIM-software!
+IMHO 2021 will be the year of the further development of Open Source BIM-software!
 
 The developments in the OS BIM are going rapidly during the last year. Its awesome! FreeCAD Versie 0.19 is the latest version(still in development) with a lot of new functionalities. [Release Notes 0.19](https://wiki.freecadweb.org/Release_notes_0.19)
 
 I think within approximately 5? years FreeCAD or Blender can be used like other 3D-BIM software(Revit/ArchiCAD/Allplan) and users will start to switch to Open Source.
 
-The 3D-modelling capacities are on a fantastic level! Drawingscreation is possible although not on the level of the commercial BIM-software. IMHO it is difficult to switch on this moment to Open Source BIM when you usually work with commercial BIM-software. There is a lot of work to do! But the developments are going fast.
+The 3D-modelling capacities are on a fantastic level! Drawingcreation is possible although not on the level of the commercial BIM-software. IMHO it is difficult to switch on this moment to Open Source BIM when you usually work with commercial BIM-software. There is a lot of work to do! But the developments are going fast.
 
 A great thing about FreeCAD & Blender is the fact that is Open Source. With CPython you can access all functionalities and a lot of Python Libraries are available.
 
@@ -32,7 +32,7 @@ FreeCAD is developed by a number of enthousiastic and intelligent developers. Le
 
 * Assembly: [RealThunder](https://www.patreon.com/thundereal)
 
-* Rebar: [Amritpal Singh]https://(www.patreon.com/amrit3701)
+* Rebar: [Amritpal Singh](https://(www.patreon.com/amrit3701)
 
 * [PyFlow](https://www.patreon.com/pyflow)  PyFlow is a kind of Grasshopper/Dynamo/Sverchok tool which is ported into FreeCAD.
 
