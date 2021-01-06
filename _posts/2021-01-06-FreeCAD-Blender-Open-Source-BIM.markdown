@@ -44,7 +44,7 @@ De 0.5% regel: Doneer als Architecten/Ingenieursbureau 0.5% van de omzet aan Ope
 
 ## Meer informatie 
 
-* Lijst met alle open source software die binnen de Bouw te gebruiken is: AEC Free Software directory - Wiki.OSArch
+* [Lijst met alle open source software die binnen de Bouw te gebruiken is](https://wiki.osarch.org/index.php?title=AEC_Free_Software_directory)
 
 * [Website FreeCAD](https://www.freecadweb.org/)
 
