@@ -76,6 +76,8 @@ De 0.5% regel: Doneer als Architecten/Ingenieursbureau 0.5% van de omzet aan Ope
 
 PS: integratie van GIS2BIM in FreeCAD & Blender ben ik mee bezig, binnenkort volgt hier meer informatie over!
 
+Mijn voortgang en databestanden van de FreeCAD/BLender/PyFlow experimenten zijn te volgen op deze [github repository](https://github.com/DutchSailor/FOSS-BIM-Experiments)
+
 #### Blender Drawing
 ![Blender Drawing](https://raw.githubusercontent.com/3BMLabs/LABS/master/assets/blog_assets/2021-01-06/BlenderDrawing.png)
 
@@ -83,7 +85,7 @@ PS: integratie van GIS2BIM in FreeCAD & Blender ben ik mee bezig, binnenkort vol
 ![GIS2BIM in FreeCAD](https://raw.githubusercontent.com/3BMLabs/LABS/master/assets/blog_assets/2021-01-06/GIS2BIMDordrecht.png)
 
 #### Staalprofielen in FreeCAD
-![Staalprofielen](https://raw.githubusercontent.com/3BMLabs/LABS/master/assets/blog_assets/2021-01-06/SectionsFreeCAD.png
+![Staalprofielen](https://raw.githubusercontent.com/3BMLabs/LABS/master/assets/blog_assets/2021-01-06/SectionsFreeCAD.png)
 
 #### PyFlow in GIS2BIM
 ![Blender Drawing](https://raw.githubusercontent.com/3BMLabs/LABS/master/assets/blog_assets/2021-01-06/PyFlowGIS2BIM.png)
