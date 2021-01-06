@@ -7,7 +7,7 @@ categories: BIM
 description: "In this blog post we will discuss the future of Open Source BIM"
 image: 'https://github.com/3BMLabs/LABS/raw/master/assets/blog_assets/2021-01-06/FreeCADSolibri.png'
 hero_height: is_small
-published: true
+published: false
 ---
 
 # FreeCAD, Blender & Open Source BIM
