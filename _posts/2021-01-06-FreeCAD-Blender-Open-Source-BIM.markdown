@@ -35,8 +35,7 @@ FreeCAD wordt gemaakt een door aantal superenthousiaste & zeer kundige ontwikkel
 
 * [PyFlow](https://www.patreon.com/pyflow)  PyFlow is een soort Dynamo/Grasshopper in wording. 
 
-Een volledige lijst met donatiemogelijkheden voor Open Source software is te vinden op: Donation Directory - Wiki.OSArch
-Donation Directory met alle mogelijkheden 
+Een volledige lijst met donatiemogelijkheden voor Open Source software is te vinden op [OSArch](https://wiki.osarch.org/index.php?title=Donation_Directory)
 
 Een aantal van hen steunen we als 3BM via Patreon:
 
