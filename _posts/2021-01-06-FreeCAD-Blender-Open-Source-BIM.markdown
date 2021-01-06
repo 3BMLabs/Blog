@@ -27,11 +27,11 @@ FreeCAD wordt gemaakt een door aantal superenthousiaste & zeer kundige ontwikkel
 
 * BIM-module: [Yorik van Havre](https://www.patreon.com/yorikvanhavre) al 11 jaar bezig!
 
-* GIS/Civiel/Moderne UI: [Hakan Seven](www.patreon.com/HakanSeven12)
+* GIS/Civiel/Moderne UI: [Hakan Seven](https://www.patreon.com/HakanSeven12)
 
-* Assembly: [RealThunder](www.patreon.com/thundereal)
+* Assembly: [RealThunder](https://www.patreon.com/thundereal)
 
-* Wapeningsmodule: [Amritpal Singh](www.patreon.com/amrit3701)
+* Wapeningsmodule: [Amritpal Singh]https://(www.patreon.com/amrit3701)
 
 * [PyFlow](https://www.patreon.com/pyflow)  PyFlow is een soort Dynamo/Grasshopper in wording. 
 
