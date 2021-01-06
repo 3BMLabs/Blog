@@ -25,15 +25,15 @@ Wat echt geweldig is in FreeCAD dat het volledig Open Source is. Met Cpython kun
 
 FreeCAD wordt gemaakt een door aantal superenthousiaste & zeer kundige ontwikkelaars. Geef ze financiële steun zodat ze nog meer tijd in FreeCAD kunnen stoppen en het tot een groot succes kunnen maken!
 
-* BIM-module --> [Yorik van Havre](https://www.patreon.com/yorikvanhavre) al 11 jaar bezig!
+* BIM-module: [Yorik van Havre](https://www.patreon.com/yorikvanhavre) al 11 jaar bezig!
 
-* GIS/Civiel/Moderne UI --> Hakan Seven: www.patreon.com/HakanSeven12
+* GIS/Civiel/Moderne UI: [Hakan Seven](www.patreon.com/HakanSeven12)
 
-* Assembly --> RealThunder: www.patreon.com/thundereal
+* Assembly: [RealThunder](www.patreon.com/thundereal)
 
-* Wapeningsmodule --> Amritpal Singh --> www.patreon.com/amrit3701
+* Wapeningsmodule: [Amritpal Singh](www.patreon.com/amrit3701)
 
-* PyFlow --> https://www.patreon.com/pyflow  PyFlow is een soort Dynamo/Grasshopper in wording. 
+* [PyFlow](https://www.patreon.com/pyflow)  PyFlow is een soort Dynamo/Grasshopper in wording. 
 
 Een volledige lijst met donatiemogelijkheden voor Open Source software is te vinden op: Donation Directory - Wiki.OSArch
 Donation Directory met alle mogelijkheden 
@@ -46,23 +46,23 @@ De 0.5% regel: Doneer als Architecten/Ingenieursbureau 0.5% van de omzet aan Ope
 
 * Lijst met alle open source software die binnen de Bouw te gebruiken is: AEC Free Software directory - Wiki.OSArch
 
-* Website FreeCAD: (https://www.freecadweb.org/)
+* [Website FreeCAD](https://www.freecadweb.org/)
 
-* Nieuwe functies in FreeCAD 0.19: (https://wiki.freecadweb.org/Release_notes_0.19)
+* [Nieuwe functies in FreeCAD 0.19](https://wiki.freecadweb.org/Release_notes_0.19)
 
-* Forum FreeCAD: (https://forum.freecadweb.org/)
+* [Forum FreeCAD](https://forum.freecadweb.org/)
 
-* Forum OSArch: (https://community.osarch.org/)
+* [Forum OSArch](https://community.osarch.org/)
 
-* Wiki OSArch Home of OSArch - Wiki.OSArch
+* [Wiki OSArch](https://wiki.osarch.org/)
 
-* FreeCAD repository on Github: (https://github.com/FreeCAD)
+* [FreeCAD repository on Github](https://github.com/FreeCAD)
 
-* PyFlow repository on Github: (https://github.com/microelly2/NodeEditor)
+* [PyFlow repository on Github](https://github.com/microelly2/NodeEditor)
 
-* Blender BIM Add-On: (https://blenderbim.org/features.html)
+* [Blender BIM Add-On](https://blenderbim.org/features.html)
 
-* Changelog Blender BIM Add-on: BlenderBIM Add-on Changelog - Wiki.OSArch
+* [Changelog Blender BIM Add-on](https://wiki.osarch.org/index.php?title=BlenderBIM_Add-on_Changelog)
 
 ## Nog een aantal mogelijkheden en voordelen 
 * Blender & FreeCAD hebben beiden een geweldige Python API. Er zijn veel mogelijkheden voor 'code sharing'.
