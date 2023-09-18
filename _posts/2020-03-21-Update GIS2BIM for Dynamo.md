@@ -28,6 +28,6 @@ Er is weer een nieuwe versie uit van GIS2BIM for Dynamo 2.x.
 ![Example2](https://raw.githubusercontent.com/3BMLabs/LABS/master/assets/blog_assets/2020-03-21/Example2.gif)
 <br><br>
 Check workflows en voorbeeldscripts voor Nederland: <br>
-[https://github.com/DutchSailor/GIS2BIM/wiki/Workflows-2.x-Nederland](https://github.com/DutchSailor/GIS2BIM/wiki/Workflows-2.x-Nederland)
+[Link](https://github.com/DutchSailor/GIS2BIM/wiki/Workflows-2.x-Nederland)
 <br><br>
 Installeer via Package Manager in Dynamo. 
