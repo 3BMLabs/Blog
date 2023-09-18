@@ -5,7 +5,7 @@ date: 2018-10-15 11:00:00
 author: Maarten Vroegindeweij
 categories: BIM
 description: "BILT Europe 2018 GIS to BIM Using Dynamo"
-image: ''
+image: 'https://raw.githubusercontent.com/3BMLabs/LABS/master/assets/blog_assets/2018-10-15/BILT Europe.png'
 published: true
 ---
 
