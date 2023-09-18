@@ -11,18 +11,18 @@ published: true
 
 # FreeCAD, Blender & Open Source BIM
 
-2021 gaat het jaar worden van de verdere ontwikkeling van Open Source BIM-software!
+2023 gaat het jaar worden van de verdere ontwikkeling van Open Source BIM-software!
 
 De ontwikkelingen op dit gebied zijn het afgelopen jaar echt door het plafond gegaan, geweldig! FreeCAD Versie 0.19 is een versie met ongekend veel nieuwe functies:
 Release notes 0.19 - FreeCAD Documentation (freecadweb.org)
 
 Ik denk dat binnen ca 5? jaar FreeCAD en/of Blender op een vergelijkbare manier als 3D-BIM software(Revit/ArchiCAD/Allplan) gebruikt kan worden en bedrijven en gebruikers op enig moment zullen gaan overstappen. 
 
-Het maken van tekeningen is op dit moment wel mogelijk maar nog niet op het niveau van de BIM-software die op de markt is. In mijn optiek is het op dit moment nog niet mogelijk om echt over te stappen als je normaal met commerciële BIM-software werkt. Er is nog heel veel werk te doen, maar de ontwikkelingen gaan snel!
+Het maken van tekeningen is op dit moment wel mogelijk maar nog niet op het niveau van de BIM-software die op de markt is. In mijn optiek is het op dit moment nog niet mogelijk om echt over te stappen als je normaal met commerciï¿½le BIM-software werkt. Er is nog heel veel werk te doen, maar de ontwikkelingen gaan snel!
 
 Wat echt geweldig is in FreeCAD dat het volledig Open Source is. Met Cpython kun je alle functies benaderen en alle beschikbare Cpython bibliotheken gebruiken.
 
-FreeCAD wordt gemaakt een door aantal superenthousiaste & zeer kundige ontwikkelaars. Geef ze financiële steun zodat ze nog meer tijd in FreeCAD kunnen stoppen en het tot een groot succes kunnen maken!
+FreeCAD wordt gemaakt een door aantal superenthousiaste & zeer kundige ontwikkelaars. Geef ze financiï¿½le steun zodat ze nog meer tijd in FreeCAD kunnen stoppen en het tot een groot succes kunnen maken!
 
 * BIM-module --> Yorik van Havre(al 11 jaar bezig!):  https://www.patreon.com/yorikvanhavre
 
@@ -70,7 +70,7 @@ De 0.5% regel: Doneer als Architecten/Ingenieursbureau 0.5% van de omzet aan Ope
 
 * Het zijn eigenlijk sociale projecten, een community van mensen die op een respectabele manier met elkaar omgaan en in samenwerking nieuwe mooie functies maken.
 
-* De IFC-integratie van Blender & FreeCAD zijn op een hoger niveau dan de commerciële softwareprogramma's.
+* De IFC-integratie van Blender & FreeCAD zijn op een hoger niveau dan de commerciï¿½le softwareprogramma's.
 
 * Blender & FreeCAD zijn crossplatform. Dus zowel te gebruiken op windows, linux en mac.
 

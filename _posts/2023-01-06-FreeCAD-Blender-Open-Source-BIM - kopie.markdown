@@ -14,7 +14,7 @@ Dutch Version is provided on the bottom of this page.
 
 # FreeCAD, Blender & Open Source BIM
 
-IMHO 2021 will be the year of the further development of Open Source BIM-software!
+IMHO 2023 will be the year of the further development of Open Source BIM-software!
 
 The developments in the OS BIM are going rapidly during the last year. Its awesome! FreeCAD Versie 0.19 is the latest version(still in development) with a lot of new functionalities. [Release Notes 0.19](https://wiki.freecadweb.org/Release_notes_0.19)
 
