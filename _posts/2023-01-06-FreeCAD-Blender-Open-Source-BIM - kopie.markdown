@@ -12,7 +12,7 @@ published: true
 
 Dutch Version is provided on the bottom of this page.
 
-# FreeCAD, Blender & Open Source BIM
+# FreeCAD, Blender & Open Source BIM test
 
 IMHO 2023 will be the year of the further development of Open Source BIM-software!
 
