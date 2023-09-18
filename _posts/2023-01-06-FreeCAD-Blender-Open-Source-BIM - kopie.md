@@ -9,7 +9,7 @@ image: 'https://github.com/3BMLabs/LABS/raw/master/assets/blog_assets/2021-01-06
 published: true
 ---
 
-# FreeCAD, Blender & Open Source BIM test
+# test1
 
 2023 gaat het jaar worden van de verdere ontwikkeling van Open Source BIM-software!
 
