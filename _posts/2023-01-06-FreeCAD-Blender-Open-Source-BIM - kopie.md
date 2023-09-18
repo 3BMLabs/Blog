@@ -9,9 +9,17 @@ image: 'https://github.com/3BMLabs/LABS/raw/master/assets/blog_assets/2021-01-06
 published: true
 ---
 
-# test1
+# Update GIS2BIM for Dynamo 2.x
 
-2023 gaat het jaar worden van de verdere ontwikkeling van Open Source BIM-software!
+Maak verbinding tussen 2 werelden: GIS&BIM.
+![GIS2BIMOpeningImage](https://raw.githubusercontent.com/3BMLabs/LABS/master/assets/blog_assets/2020-03-21/GIS2BIMOpeningImage.png)
+
+
+
+
+
+
+
 
 De ontwikkelingen op dit gebied zijn het afgelopen jaar echt door het plafond gegaan, geweldig! FreeCAD Versie 0.19 is een versie met ongekend veel nieuwe functies:
 Release notes 0.19 - FreeCAD Documentation (freecadweb.org)
