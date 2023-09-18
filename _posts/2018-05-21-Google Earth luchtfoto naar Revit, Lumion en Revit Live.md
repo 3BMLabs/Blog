@@ -5,7 +5,7 @@ date: 2018-05-21 11:00:00
 author: Maarten Vroegindeweij
 categories: BIM
 description: "Een aanvulling op de vorige blog."
-image: 'https://raw.githubusercontent.com/3BMLabs/LABS/master/assets/blog_assets/2018-10-15/BILT Europe.png'
+image: 'https://raw.githubusercontent.com/3BMLabs/LABS/master/assets/blog_assets/2018-05-21/Workflow.png'
 published: true
 ---
 
