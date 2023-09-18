@@ -4,8 +4,8 @@ title: "HSB in Revit deel 3"
 date: 2019-01-05 11:00:00
 author: Maarten Vroegindeweij
 categories: BIM
-description: "HSB in Revit"
-image: 'https://raw.githubusercontent.com/3BMLabs/LABS/master/assets/blog_assets/2019-01-05/6_3D doorsnede.png'
+description: "Een vervolg op de blog over het modelleren van houtskeletbouw(HSB) binnen Autodesk Revit."
+image: 'https://raw.githubusercontent.com/3BMLabs/LABS/master/assets/blog_assets/2019-01-05/6_3D_doorsnede.png'
 published: true
 ---
 
