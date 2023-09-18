@@ -14,6 +14,9 @@ Dutch Version is provided on the bottom of this page.
 
 # test2
 
+Maak verbinding tussen 2 werelden: GIS&BIM.
+![GIS2BIMOpeningImage](https://raw.githubusercontent.com/3BMLabs/LABS/master/assets/blog_assets/2020-03-21/GIS2BIMOpeningImage.png)
+
 IMHO 2023 will be the year of the further development of Open Source BIM-software!
 
 The developments in the OS BIM are going rapidly during the last year. Its awesome! FreeCAD Versie 0.19 is the latest version(still in development) with a lot of new functionalities. [Release Notes 0.19](https://wiki.freecadweb.org/Release_notes_0.19)
