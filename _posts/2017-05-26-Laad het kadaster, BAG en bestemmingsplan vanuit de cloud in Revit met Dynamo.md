@@ -4,8 +4,8 @@ title: "Laad het kadaster, BAG en bestemmingsplan vanuit de cloud in Revit met D
 date: 2017-05-26 11:00:00
 author: Maarten Vroegindeweij
 categories: BIM
-description: ""
-image: ''
+description: "Laad het kadaster, BAG en bestemmingsplan vanuit de cloud in Revit met Dynamo"
+image: 'https://raw.githubusercontent.com/3BMLabs/LABS/master/assets/blog_assets/2017-05-26/26_0.png'
 published: true
 ---
 
