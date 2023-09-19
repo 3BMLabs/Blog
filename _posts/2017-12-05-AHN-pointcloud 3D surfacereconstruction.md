@@ -21,7 +21,7 @@ Je kunt het AHN bekijken via:
 
 En tevens via het pdok downloaden: [https://www.pdok.nl/nl/ahn3-downloads](https://www.pdok.nl/nl/ahn3-downloads)
 
-**Pointclouds**
+**Pointclouds**<br>
 Puntenwolken bestaan uit punten met een X,Y,Z-waarde en een optionele classificatie.
 
 Een mogelijke workflow:
@@ -32,10 +32,10 @@ Een mogelijke workflow:
 
 ![1SetLocation](https://raw.githubusercontent.com/3BMLabs/LABS/master/assets/blog_assets/2017-12-05/1SetLocation.png)
 
-**2) Gebruik Dynamo om te achterhalen welke pointcloud uit het AHN je nodig hebt**
-Stappen:
--Haal lat/lon uit de revitlocatie op.
--Transformeer(met GIS2BIM) van WGS-84 naar RD-coördinaten.
+**2) Gebruik Dynamo om te achterhalen welke pointcloud uit het AHN je nodig hebt** <br>
+Stappen:<br>
+-Haal lat/lon uit de revitlocatie op.<br>
+-Transformeer(met GIS2BIM) van WGS-84 naar RD-coördinaten.<br>
 -Zoek downloadlink op met behulp van pdok
 
 ![2_download AHN2](https://raw.githubusercontent.com/3BMLabs/LABS/master/assets/blog_assets/2017-12-05/2_download AHN2.gif)
@@ -67,7 +67,7 @@ Er zijn verschillende instellingen hoe dit te genereren. Het is even een tijdje 
 In de praktijk blijkt AHN2 lastig te meshen omdat het een grovere puntenwolk is.
 AHN3 werkt een stuk beter.
 
-**6) AHN meshen**
+**6) AHN meshen** <br>
 Onderstaand een AHN3 pointcloud van een stuk strand waarbij het oorspronkelijke oppervlakte gereconstrueerd wordt met behulp van het Poisson Surface Reconstruction-Algoritme.
 
 ![5_poisson_surfacereconstruction](https://raw.githubusercontent.com/3BMLabs/LABS/master/assets/blog_assets/2017-12-05/5_poisson_surfacereconstruction.gif)
@@ -76,16 +76,16 @@ Er zijn allerlei methoden voor surfacereconstruction. Onderstaand is [Delaunay](
 
 ![6CloudComputeNormals3](https://raw.githubusercontent.com/3BMLabs/LABS/master/assets/blog_assets/2017-12-05/6CloudComputeNormals3.png)
 
-**Open source programma's met GUI voor pointclouds/surface reconstruction:**
--[CloudCompare](http://www.danielgm.net/cc/)
--[LibLAS](https://www.liblas.org/)
--[MeshLab](http://www.meshlab.net/)
+**Open source programma's met GUI voor pointclouds/surface reconstruction:**<br>
+-[CloudCompare](http://www.danielgm.net/cc/)<br>
+-[LibLAS](https://www.liblas.org/)<br>
+-[MeshLab](http://www.meshlab.net/)<br>
 -[Unity](https://unity3d.com/)
 
-**Enkele interessante bibliotheken**
--[PDAL](https://www.pdal.io/)
--[CGAL](https://www.cgal.org/)
--[Pointcloud Library(PCL)](https://www.pointclouds.org/)
+**Enkele interessante bibliotheken**<br>
+-[PDAL](https://www.pdal.io/)<br>
+-[CGAL](https://www.cgal.org/)<br>
+-[Pointcloud Library(PCL)](https://www.pointclouds.org/)<br>
 Alle drie in C++. 
 
 **7) Mesh als .obj inladen in dynamo**
@@ -104,7 +104,7 @@ Wat kun je allemaal nog meer met de pointclouddata?
 
 **3) Doorsnedelijnen genereren(bijvoorbeeld voor dijklichamen)**
 
-![10_DikeSection](https://raw.githubusercontent.com/3BMLabs/LABS/master/assets/blog_assets/2017-12-05/9Mes10_DikeSectionhInRevit.png)
+![10_DikeSection](https://raw.githubusercontent.com/3BMLabs/LABS/master/assets/blog_assets/2017-12-05/10_DikeSection.png)
 
 **4) Omzetten naar points in een toposurface(geschikt voor gebieden met weinig bebouwing en bomen zoals het strand)**
 
