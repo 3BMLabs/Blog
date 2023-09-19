@@ -83,7 +83,7 @@ In de GIS2BIM-package zijn voor alle methoden diverse nodes opgenomen.
 ## **3. Nieuwe locatieserver**
 
 Er is een nieuwe versie van de locatieserver gelanceerd.<br>
-https://pdokforum.geonovum.nl/t/nieuwe-versie-locatieserver-v3-is-beschikbaar/647<br>
+[https://pdokforum.geonovum.nl/t/nieuwe-versie-locatieserver-v3-is-beschikbaar/647](https://pdokforum.geonovum.nl/t/nieuwe-versie-locatieserver-v3-is-beschikbaar/647)<br>
 Deze is verwerkt in de node GetLocationdataNetherlands.<br>
 Overige verbeteringen in de GetLocation-node: Kadastraal perceel, sectie, lengtegraad en breedtegraad zijn uit te lezen.
 
@@ -101,7 +101,7 @@ Er is er een BAG:pand en een BAG:gebruiksobject. Een pand kan meerdere gebruikso
 
 Er zijn meerdere opties om gebruik te maken van de BAG-informatie.
 
-1) 3D families aanmaken met Dynamo, parameters aanmaken en de bovenstaande informatie hierin wegschrijven.
+1) 3D families aanmaken met Dynamo, parameters aanmaken en de bovenstaande informatie hierin wegschrijven.<br>
 2) Informatie als losse text in een view plaatsen.
 
 Optie 1 is vanuit BIM-oogpunt wenselijk, alleen nogal langzaam als je bijvoorbeeld 400 panden hebt in de omgeving. Revit gaat namelijk 400 families maken en vervolgens plaatsen. Dit heeft even wat tijd nodig. Vandaar dat beide opties soms handig zijn.
@@ -126,7 +126,7 @@ Het BGT is helaas niet als webservice beschikbaar. Het is echter wel te download
 
 ![30_6](https://raw.githubusercontent.com/3BMLabs/LABS/master/assets/blog_assets/2017-08-29/30_6.png)
 
-Er is een node om automatisch de BGT-data te downloaden: GIS2BIM.DownloadBGTData. Hiervoor maak je gebruik van GIS2BIM.GetMortonCodeCoordinate. Deze maakt met behulp van bitshifting een mortoncode: https://en.wikipedia.org/wiki/Z-order_curve
+Er is een node om automatisch de BGT-data te downloaden: GIS2BIM.DownloadBGTData. Hiervoor maak je gebruik van GIS2BIM.GetMortonCodeCoordinate. Deze maakt met behulp van bitshifting een mortoncode: [https://en.wikipedia.org/wiki/Z-order_curve](https://en.wikipedia.org/wiki/Z-order_curve)
 
 ![GIS2BIM.DownloadBGTData](https://raw.githubusercontent.com/3BMLabs/LABS/master/assets/blog_assets/2017-08-29/GIS2BIM.DownloadBGTData.png)
 
@@ -140,7 +140,7 @@ Het BGT omvat een heel aantal GML-bestanden. Voor elke laag een apart bestand:
 Sommige GML-bestanden bevatten een punt en bijbehorende informatie(bomen, verkeersborden e.d.)
 
 ![30_8](https://raw.githubusercontent.com/3BMLabs/LABS/master/assets/blog_assets/2017-08-29/30_8.png)
-
+<br><br><br>
 ![30_9](https://raw.githubusercontent.com/3BMLabs/LABS/master/assets/blog_assets/2017-08-29/30_9.png)
 
 Andere bevatten polygonen, zoals hierboven. Dit betreft het spoor.
@@ -206,9 +206,9 @@ bgt_wijk
 
 ![30_10](https://raw.githubusercontent.com/3BMLabs/LABS/master/assets/blog_assets/2017-08-29/30_10.png)
 
-We gaan de GML vertalen naar:
-1) Filled Regions
-2) Detail Lines
+We gaan de GML vertalen naar:<br>
+1) Filled Regions<br>
+2) Detail Lines<br>
 3) Texten
 
 
