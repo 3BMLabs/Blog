@@ -5,7 +5,7 @@ date: 2017-08-29 11:00:00
 author: Maarten Vroegindeweij
 categories: BIM
 description: "BGT, AHN & RD-coördinaten, GIS2BIM package"
-image: 'https://raw.githubusercontent.com/3BMLabs/LABS/master/assets/blog_assets/2018-11-10/1_BAG_3D.png'
+image: 'https://raw.githubusercontent.com/3BMLabs/LABS/master/assets/blog_assets/2017-08-29/30_11.png'
 published: true
 ---
 
@@ -133,7 +133,8 @@ Er is een node om automatisch de BGT-data te downloaden: GIS2BIM.DownloadBGTData
 Deze code kun je gebruiken om het desbetreffende deel van de BGT te downloaden.
 Vervolgens is er een node om het zip-bestand uit te pakken.
 
-Het BGT omvat een heel aantal GML-bestanden. Voor elke laag een apart bestand:<br>
+Het BGT omvat een heel aantal GML-bestanden. Voor elke laag een apart bestand:
+
 ![30_7](https://raw.githubusercontent.com/3BMLabs/LABS/master/assets/blog_assets/2017-08-29/30_7.png)
 
 Sommige GML-bestanden bevatten een punt en bijbehorende informatie(bomen, verkeersborden e.d.)
@@ -211,15 +212,18 @@ We gaan de GML vertalen naar:
 3) Texten
 
 
-Dat ziet er als onderstaand uit:(labels werken nog niet)<br>
+Dat ziet er als onderstaand uit:(labels werken nog niet)
+
 ![GIS2BIM.BGT2D](https://raw.githubusercontent.com/3BMLabs/LABS/master/assets/blog_assets/2017-08-29/GIS2BIM.BGT2D.png)
 
-Onderstaand het resultaat<br>
+Onderstaand het resultaat
+
 ![30_11](https://raw.githubusercontent.com/3BMLabs/LABS/master/assets/blog_assets/2017-08-29/30_11.png)
 
 Het BAG komt dus via een WFS-webrequest en de BGT via een filtering van een automatische download van de gml-bestanden.
 
-Even het adres wijzigen. Zie daar het resultaat!<br>
+Even het adres wijzigen. Zie daar het resultaat!
+
 ![30_13](https://raw.githubusercontent.com/3BMLabs/LABS/master/assets/blog_assets/2017-08-29/30_13.png)
 
 Je kunt overigens natuurlijk ook gemakkelijk families maken van de data, alleen het wordt dan snel traag. Het zijn al snel bijvoorbeeld 10.000-50.000 lijnen en componenten e.d.
@@ -227,15 +231,100 @@ Je kunt overigens natuurlijk ook gemakkelijk families maken van de data, alleen 
 ## **6.Luchtfoto via WMS inladen!**
 We kunnen ook WMS data inladen.<br>
 Je kunt een webrequest formuleren, bijvoorbeeld voor het inladen van luchtfoto van 2016.<br>
-De delen van het webrequest zien er als volgt uit:<br>
+De delen van het webrequest zien er als volgt uit:
+
 ![30_14](https://raw.githubusercontent.com/3BMLabs/LABS/master/assets/blog_assets/2017-08-29/30_14.png)
 
 Bekijk het voorbeeld alvast via [link](http://geodata.nationaalgeoregister.nl/luchtfoto/rgb/wms?&request=GetMap&VERSION=1.3.0&STYLES=default&layers=2016_ortho25&bbox=104547,425048,105047,425548&width=2000&height=2000&format=image/png&crs=EPSG:28992). Werkt niet goed in Edge, wel in Firefox en Google Chrome.
 
-Op basis van een boundingbox van RD-coördinaten maken we opnieuw een webrequest. De standaard webrequest-node van Revit functioneerd hier niet. Deze geeft namelijk direct een textfile als resultaat. We doen de webrequest daarom met Python.<br>
+Op basis van een boundingbox van RD-coördinaten maken we opnieuw een webrequest. De standaard webrequest-node van Revit functioneerd hier niet. Deze geeft namelijk direct een textfile als resultaat. We doen de webrequest daarom met Python.
+
 ![30_19](https://raw.githubusercontent.com/3BMLabs/LABS/master/assets/blog_assets/2017-08-29/30_19.png)
 
-En dat werkt, zie hieronder. Het bestand wordt tijdelijk ergens opgeslagen.<br>
+En dat werkt, zie hieronder. Het bestand wordt tijdelijk ergens opgeslagen.
+
 ![30_15](https://raw.githubusercontent.com/3BMLabs/LABS/master/assets/blog_assets/2017-08-29/30_15.png)
 
-Vervolgens importeren we het bestand in een view. Dit ook weer met Python. Met dank aan Konrad Sobon. Zie de discussie op: http://dynamobim.com/forums/topic/is-it-possible/ <br>
+Vervolgens importeren we het bestand in een view. Dit ook weer met Python. Met dank aan Konrad Sobon. Zie de discussie op: [http://dynamobim.com/forums/topic/is-it-possible/](http://dynamobim.com/forums/topic/is-it-possible/)
+
+![30_16](https://raw.githubusercontent.com/3BMLabs/LABS/master/assets/blog_assets/2017-08-29/30_16.png)
+
+Vervolgens stellen we de breedte van de rasterimage in conform de werkelijke breedte.
+
+![30_17](https://raw.githubusercontent.com/3BMLabs/LABS/master/assets/blog_assets/2017-08-29/30_17.png)
+
+En vervolgens is deze op schaal en juiste positie in de view geplaatst!
+
+![30_18](https://raw.githubusercontent.com/3BMLabs/LABS/master/assets/blog_assets/2017-08-29/30_18.png)
+
+Nu we het raamwerk van een WMS-request hebben kunnen we alle WMS-data die je maar kunt bedenken met 1 druk op de knop in Revit inladen.
+
+Zoals bijvoorbeeld de CBS statistieken voor de WOZ-waarde van woningen:
+
+Getcapabilitieslink: [http://geodata.nationaalgeoregister.nl/cbsvierkanten100mv2/wms?&request=GetCapabilities&service=WMS](http://geodata.nationaalgeoregister.nl/cbsvierkanten100mv2/wms?&request=GetCapabilities&service=WMS)
+
+**Resultaat:**
+
+![30_22](https://raw.githubusercontent.com/3BMLabs/LABS/master/assets/blog_assets/2017-08-29/30_22.png)
+
+**Legenda:**
+
+![30_21](https://raw.githubusercontent.com/3BMLabs/LABS/master/assets/blog_assets/2017-08-29/30_21.png)
+
+## **7.Shared coördinates en RD-coördinaten**
+Aangezien al de GIS-informatie die we gebruiken op RD-coördinaten staat kunnen we ook de RD-coördinaten uitlezen. Dit kan door het Surveypoint te verplaatsen.
+
+![30_20](https://raw.githubusercontent.com/3BMLabs/LABS/master/assets/blog_assets/2017-08-29/30_20.png)
+
+Ook deze zit inmiddels in een GIS2BIM-node.
+
+![GIS2BIM.SetSharedCoordinate](https://raw.githubusercontent.com/3BMLabs/LABS/master/assets/blog_assets/2017-08-29/GIS2BIM.SetSharedCoordinate.png)
+
+![30_23](https://raw.githubusercontent.com/3BMLabs/LABS/master/assets/blog_assets/2017-08-29/30_23.png)
+
+En vervolgens kun je overal rd-coordinaten uitlezen.
+
+## **8. Ideëen en toekomst**
+
+Wat nog meer allemaal mogelijk is:
+- [http://topotijdreis.nl/](http://topotijdreis.nl/) met WMTS importeren(als bouwhistorie achtergrond)
+- Bekijken of een pand een rijksmonument is; in een risicogebied voor funderingsproblemen ligt enz. enz.
+- Topography maken op basis van ahn-pointcloud en deze voorzien van een WMS luchtfoto als rendermateriaal.
+
+![GIS2BIM.example2](https://raw.githubusercontent.com/3BMLabs/LABS/master/assets/blog_assets/2017-08-29/GIS2BIM.example2.png)
+
+- Google API en Open Streetmap gebruiken als webrequest
+
+![6_6_result](https://raw.githubusercontent.com/3BMLabs/LABS/master/assets/blog_assets/2017-08-29/6_6_result.png)
+
+- WMTS webrequest voor bijvoorbeeld infrarood luchtfoto's.
+
+![GIS2BIM.WMTSCombineImages](https://raw.githubusercontent.com/3BMLabs/LABS/master/assets/blog_assets/2017-08-29/GIS2BIM.WMTSCombineImages.png)
+
+![GIS2BIM.WMTSLayersNetherlands](https://raw.githubusercontent.com/3BMLabs/LABS/master/assets/blog_assets/2017-08-29/GIS2BIM.WMTSLayersNetherlands.png)
+
+- GEF importeren in Revit op basis van een willekeurig polygon. Dit najaar komt het dinoloket als wfs-service beschikbaar.
+
+![GIS2BIM.GEFCPTTo3DSoilLayers](https://raw.githubusercontent.com/3BMLabs/LABS/master/assets/blog_assets/2017-08-29/GIS2BIM.GEFCPTTo3DSoilLayers.png)
+
+- In het BGT zitten definities van verkeersborden, lantaarnpalen, riooolputten, betaalautomaten, brievenbussen e.d. Je zou hier een hele serie 3D-families voor kunnen maken die automatisch geplaatst worden op basis van de desbetreffende GML. 
+- QGIS via een python-script gebruiken om data in te lezen.
+- **Locatierapportage**. Bij start van een project run je een mega-script waarbij honderden WMS en WFS-services bevraagd gaan worden. Onder andere geluid, natura2000, milieu, vleermuizen enzovoorts. Je zou hier nog een risico-analyse aan kunnen koppelen.
+- KLIK-data inladen en omzetten naar vectordata.
+
+Handige leerpunten. Ik ben nu steeds meer dingen in Python aan het doen in plaats van in Dynamo. Een paar tips:
+
+1) IronPython 2.7 is **niet** hetzelfde als Python 2 of 3. IronPython is implementatie van Python voor .NET. Dat betekend dat je heel Python libraries niet kunt gebruiken in IronPython.
+
+2) Een zeer handige manier om je Pythonscript te testen is PyCharm. [https://www.jetbrains.com/pycharm/](https://www.jetbrains.com/pycharm/) Let op dat je de interpreter op IronPython 2.7 zet en dus **niet** op Python 2 of 3.
+
+3) Je kunt daardoor wel gebruik maken van de gehele .NET omgeving. Bijvoorbeeld de ZipFile Class.<br>
+[https://msdn.microsoft.com/en-us/library/system.io.compression.zipfile%28v=vs.110%29.aspx](https://msdn.microsoft.com/en-us/library/system.io.compression.zipfile%28v=vs.110%29.aspx)
+
+Om gebruik te maken van .NET moet je via clr.AddReference the desbetreffende Assembly en Namespace aanroepen.
+
+clr.AddReference("**ASSEMBLY**")<br>
+from **NAMESPACE** import **CLASS**
+
+![code](https://raw.githubusercontent.com/3BMLabs/LABS/master/assets/blog_assets/2017-08-29/code.png)
+
