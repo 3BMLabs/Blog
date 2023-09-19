@@ -38,7 +38,7 @@ Het stappenplan:
 5. De curves verplaatsen we naar het nulpunt van het model en plaatsen detaillines in de actieve view.
 6. Aanvullende informatie.
 
-**1. Adres**
+**1. Adres**<br>
 We gebruiken bij dit voorbeeld een adres in dordrecht: Oranjelaan 7 Dordrecht.
 Hieronder het resultaat van het kadaster, BAG en bestemmingsplan. **Het is echt fantastisch om het bouwvlak uit het bestemmingsplan als vector i.p.v. raster te hebben!!!!!!**
 
