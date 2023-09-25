@@ -11,8 +11,8 @@ published: true
 
 # Automatische maatvoering
 
-Je kunt met Dynamo ook automatisch maatvoeren.
-1) Stramienmaatvoering
+Je kunt met Dynamo ook automatisch maatvoeren.<br>
+1) Stramienmaatvoering<br>
 2) Funderingsbalkmaatvoering
 
 **1) Stramienmaatvoering**<br>
