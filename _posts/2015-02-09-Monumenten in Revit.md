@@ -56,8 +56,8 @@ En het eindresultaat!
 
 Het is even puzzelen in Revit met al het lijstwerk.Een handig boek is 'de Architectonische Vormenleer' van E. Gugel uit 1880.
 
-![DSC_3105](https://raw.githubusercontent.com/3BMLabs/LABS/master/assets/blog_assets/2015-02-09/DSC_3105.jpg)
-![DSC_3109](https://raw.githubusercontent.com/3BMLabs/LABS/master/assets/blog_assets/2015-02-09/DSC_3109.jpg)
+![DSC_3105](https://raw.githubusercontent.com/3BMLabs/LABS/master/assets/blog_assets/2015-02-09/DSC_3105.JPG)
+![DSC_3109](https://raw.githubusercontent.com/3BMLabs/LABS/master/assets/blog_assets/2015-02-09/DSC_3109.JPG)
 
 **2) Kozijnen en deuren**
 Download de deur [hier](http://www.3bm.cloud/dutchrevitblog/31_GM_paneeldeur.rfa)
