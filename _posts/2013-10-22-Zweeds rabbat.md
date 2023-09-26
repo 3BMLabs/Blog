@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Zweeds rabbat, potdekselwerk met geintegreerde wall-reveal"
+title: "Zweeds rabbat"
 date: 2013-10-22 11:00:00
 author: Maarten Vroegindeweij
 categories: BIM
