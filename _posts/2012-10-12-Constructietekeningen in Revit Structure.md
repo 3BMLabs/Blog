@@ -5,7 +5,7 @@ date: 2012-10-12 11:00:00
 author: Maarten Vroegindeweij
 categories: BIM
 description: ""
-image: 'https://raw.githubusercontent.com/3BMLabs/LABS/master/assets/blog_assets/2012-11-17/5_1_kolom_boven_onder_vloer.jpg'
+image: 'https://raw.githubusercontent.com/3BMLabs/LABS/master/assets/blog_assets/2012-10-12/5_1_kolom_boven_onder_vloer.jpg'
 published: true
 ---
 
