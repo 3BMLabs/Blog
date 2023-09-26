@@ -29,7 +29,7 @@ De extension voor staalverbindingen die bij Revit geleverd word is voor ons om a
     1. Tag die een afmeting van een strip en de lengte uitleest
     2. Tag die het aantal en soort bout uitleest
     3. Tag die de profielnaam, materiaalsoort, merk, lengte uitleest
-    4. Tag die de maat van de las uitleest.
+    4. Tag die de maat van de las uitleest.<br>
 **1. Slimme families**
 
 Benodigde families:<br>
@@ -128,7 +128,7 @@ Voeg in elke staalfamily een instance reporting shared parameter van het type 'l
 
 ![19_liggerfamily](https://raw.githubusercontent.com/3BMLabs/LABS/master/assets/blog_assets/2013-05-31/19_liggerfamily.jpg)
 
-**3. Goede viewtemplates.**
+**3. Goede viewtemplates.**<br>
 Spreek voor zich.
 
 **4.Tags**
