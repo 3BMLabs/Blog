@@ -12,7 +12,7 @@ published: true
 # Update paalfamily
 
 Een aantal aanvullingen op de paalfamily zoals in 2009 omschreven:<br>
-    1. **In aanzicht afbreeksymbool**<br>
+    1) **In aanzicht afbreeksymbool**<br>
 Het is wel zo prettig als je een wandaanzicht maakt dat de paal met afbreeksymbool zichtbaar is. Dit is mogelijk door een genest detailcomponent te plaatsen.
 
 ![download](https://raw.githubusercontent.com/3BMLabs/LABS/master/assets/blog_assets/2012-11-17/download.png)
@@ -25,7 +25,7 @@ Selecteer de paal-geometrie en zet deze in left-right en front-back onzichtbaar.
 
 ![download3](https://raw.githubusercontent.com/3BMLabs/LABS/master/assets/blog_assets/2012-11-17/download3.png)
 
-2. **Paalbelasting als instance parameter aanwezig**<br>
+2) **Paalbelasting als instance parameter aanwezig**<br>
 Als je de paalbelasting als 'instance parameter'(shared) toevoegt, kun je deze op het palenplan weergeven door een tag.
 
 ![download4](https://raw.githubusercontent.com/3BMLabs/LABS/master/assets/blog_assets/2012-11-17/download4.png)
@@ -34,5 +34,5 @@ Hier kun je ook gemakkelijk een schedule uit genereren die je aan de berekening 
 
 ![download5](https://raw.githubusercontent.com/3BMLabs/LABS/master/assets/blog_assets/2012-11-17/download5.png)
 
-3. **Geneste family met werkelijke paalvorm**<br>
+3) **Geneste family met werkelijke paalvorm**<br>
 Het is ook nog denkbaar om een geneste family met de werkelijk paalvorm toe te voegen. Later hier meer over.
