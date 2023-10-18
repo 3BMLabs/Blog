@@ -19,7 +19,7 @@ Download **#GIS2BIM** via de Dynamo Package Manager.
 
 Download het script, gifbestanden en afbeeldingen hier: [https://lnkd.in/dhX2B4X](https://lnkd.in/dhX2B4X)
 
-Voor meer documentatie en voorbeeldscripts: [https://lnkd.in/dPjegRj]()https://lnkd.in/dPjegRj
+Voor meer documentatie en voorbeeldscripts: [https://lnkd.in/dPjegRj](https://lnkd.in/dPjegRj)
 
 Maakt gebruik van de **#Dynamo** packages **#SpringNodes** & **#MeshToolkit**
 
