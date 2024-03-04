@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Het maken van een palenplan in Revit Structure"
+title: "Oude bouwkundige boeken gedigitaliseerd"
 date: 2023-05-27 13:51:30
 author: Maarten Vroegindeweij
 categories: BIM
