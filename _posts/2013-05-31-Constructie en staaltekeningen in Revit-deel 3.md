@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Constructie en staaltekeningen in Revit"
+title: "Constructie en staaltekeningen in Revit deel 3"
 date: 2013-05-31 11:00:00
 author: Maarten Vroegindeweij
 categories: BIM
